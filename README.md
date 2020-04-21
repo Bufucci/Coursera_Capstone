@@ -417,4 +417,4 @@ Without leveraging data to make focussed decisions, the process of finding the m
 
 Thanks for taking part in my Data-Science journey!
 
-*With Regard to Micho & Micha*
+*With Regards to Michou & Micha*

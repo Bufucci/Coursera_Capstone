@@ -378,7 +378,7 @@ Finally, **my final order** would be to look as following :
 - **First choice :  Arrondissement 4 - Hotel de Ville**, Blue color
 - **Second choice : Arrondissement 3 - Temple.**, Red color
 
-A **third alternative** is to look for the most suitable locations in **the area alining these two locations( Temple, Hotel-de-Ville) and in the direction of * **Arrondissement 8 - Elysee** as the Highest location for Artistic & Tourists.
+A **third alternative** is to look for the most suitable locations in **the area alining these two locations( Temple, Hotel-de-Ville) and in the direction of Arrondissement 8 - Elysee** as the Highest location for Artistic & Tourists.
 
 By this, we are ready to interpret observations and make inferences in order to conclude, but before that let's check the Two **chosen Paris neighborhoods** a well as the **3rd alternative Arrondissement 8 - Les Champs Elysee** colored in Magenta.
 
